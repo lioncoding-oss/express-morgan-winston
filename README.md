@@ -4,7 +4,7 @@ Build a robust logging system using NodeJs Express, morgan, and winston.
 
 ![](assets/console.png)
 
-## Getting started with the sample
+## Getting started with this sample
 
 ```shell
 git clone https://github.com/lioncoding-oss/express-morgan-winston.git
