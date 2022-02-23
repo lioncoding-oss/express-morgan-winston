@@ -1,6 +1,10 @@
 {
   "name": "express-morgan-winston",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lioncoding-oss/express-morgan-winston.git"
+  },
   "description": "",
   "main": "src/app.js",
   "scripts": {
@@ -8,8 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Laurent Egbakou",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.3",
     "morgan": "^1.10.0",
