@@ -2,7 +2,7 @@
 
 Build a robust logging system using NodeJs Express, morgan, and winston.
 
-![](assets\console.png)
+![](assets/console.png)
 
 ## Getting started with the sample
 
